@@ -1,2 +1,4 @@
-print("Hellow")
+
+a = "Hellow jay"
+print(a)
 
